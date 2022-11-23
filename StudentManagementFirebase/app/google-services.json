@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926483064602",
+    "firebase_url": "https://quanlysinhvien-8d5ef-default-rtdb.firebaseio.com",
+    "project_id": "quanlysinhvien-8d5ef",
+    "storage_bucket": "quanlysinhvien-8d5ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926483064602:android:19224cada358b25f39eea3",
+        "android_client_info": {
+          "package_name": "com.example.studentmanagementfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926483064602-vejj7p5fb6jkoelkt56oofmfr47sfb8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWUFcc7HEkqhI90J55pRtqXdoOIpC-IT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926483064602-vejj7p5fb6jkoelkt56oofmfr47sfb8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
